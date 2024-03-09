@@ -12,8 +12,8 @@
 This project demonstrates sentiment analysis and similarity comparison of product reviews using natural language processing (NLP) techniques. It utilizes the spaCy and TextBlob libraries for NLP tasks such as preprocessing, sentiment analysis, and similarity calculation.
 
 ### Files
-* sentiment_analysis.ipynb : Jupyter Notebook containing the code for sentiment analysis and similarity comparison.
-* Amazon_product_reviews.csv: Dataset containing Amazon product reviews used for analysis.
+- [`sentiment_analysis.ipynb`](sentiment_analysis.ipynb) : Jupyter Notebook containing the code for sentiment analysis and similarity comparison.
+- [Amazon_product_reviews.csv](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products) : Dataset containing Amazon product reviews used for analysis.
 
 ### Prerequisites
 Before running the code, ensure you have the following dependencies installed:
